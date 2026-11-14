@@ -1,0 +1,13 @@
+# GitHub Pages: https://secondwindlimited.github.io/astrea-astrology-glossary/
+title: "Astrology Glossary and Free Astrology Course"
+description: "48 astrology terms explained in plain language, in 7 languages, plus a free 32-lesson beginner course. By Astrea."
+url: https://secondwindlimited.github.io
+baseurl: /astrea-astrology-glossary
+lang: en
+theme: jekyll-theme-cayman
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+author:
+  name: SECOND WIND LIMITED
+  url: https://secondwindltd.xyz/
