@@ -1,5 +1,7 @@
 # Astrology Glossary and Free Astrology Course (open data, 7 languages)
 
+🌐 **English** · [中文](README.zh.md) · [日本語](README.ja.md) · [한국어](README.ko.md) · [Español](README.es.md) · [Français](README.fr.md) · [Deutsch](README.de.md) <!-- languages -->
+
 **Learn astrology from zero: a 48-term astrology glossary and a free 32-lesson beginner course covering planets, zodiac signs, houses, aspects and how to read a birth chart.** The glossary ships as JSON in English, Chinese, Spanish, French, German, Japanese and Korean.
 
 Maintained by **[Astrea](https://astrea.secondwindltd.xyz/)**, the astrology app with a personal birth chart, daily readings, an AI astrologer you can talk to, and a private journal. [Get Astrea on Google Play](https://play.google.com/store/apps/details?id=app.astrea.astrea).
@@ -54,6 +56,34 @@ Eight modules take you from "what is a birth chart" to completing your first ful
 - **Honest.** Each entry names the common misreading, so you learn what a placement does *not* mean.
 - **Seven languages**, one consistent structure.
 - **Built for apps and AI.** Stable IDs, clean JSON.
+
+<!-- faq -->
+## Frequently asked questions
+
+### What are the "big three" in astrology?
+
+Your [Sun](terms/planet-sun.md) sign, [Moon](terms/planet-moon.md) sign and Rising sign, also called the [Ascendant](terms/term-ascendant.md). You need your birth time to know your Rising sign.
+
+### What do I need to calculate my birth chart?
+
+Your birth date, birth time and birth place. Without a birth time you can still see where the Sun, Moon and planets were, but not your Rising sign or exact degrees. Try the [free birth chart calculator](https://astrea.secondwindltd.xyz/tools/birth-chart-calculator/).
+
+### What is the difference between a zodiac sign and a house?
+
+A sign describes the style in which a planet's theme is expressed. A house points to the area of life where it shows up. A reading combines planet, sign, house and aspects.
+
+### Where can I look up a single astrology term?
+
+Every term has its own page: **[browse all 48 terms](terms/index.md)**, also in [中文](terms/zh/index.md), [日本語](terms/ja/index.md), [한국어](terms/ko/index.md), [Español](terms/es/index.md), [Français](terms/fr/index.md) and [Deutsch](terms/de/index.md).
+
+### Is astrology scientific?
+
+No. Astrology is a traditional interpretive practice. Astrea treats it as a prompt for reflection, not as scientific proof or prediction.
+
+### How can I learn astrology for free?
+
+Start with the [free 32-lesson course](LESSONS.md), or learn inside the [Astrea app](https://play.google.com/store/apps/details?id=app.astrea.astrea) with quizzes and your own chart.
+<!-- /faq -->
 
 ## License
 
